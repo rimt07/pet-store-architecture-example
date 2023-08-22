@@ -14,7 +14,7 @@ El uso de esta documentación y cualquier software mencionado en ella está suje
 
 En resumen, el lector asume la responsabilidad total de cualquier acción que tome basada en la información proporcionada en esta documentación, y libera al autor y a los contribuyentes de cualquier responsabilidad relacionada.
 
-Este descargo de responsabilidad puede estar sujeto a cambios y actualizaciones sin previo aviso. Última actualización: [Fecha de actualización].
+Este descargo de responsabilidad puede estar sujeto a cambios y actualizaciones sin previo aviso. Última actualización: 22/08/2023
 
 5had3
 [Especialista en TI y Arquitecto de Software]
