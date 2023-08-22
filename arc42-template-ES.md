@@ -1,6 +1,26 @@
-# 
+# Descargo de responsabilidad
 
-**Acerca de arc42**
+La información contenida en esta documentación técnica se proporciona tal cual, sin garantías de ningún tipo, ya sean expresas o implícitas. El autor y el editor de esta documentación no asumen ninguna responsabilidad por la precisión, integridad o utilidad de la información aquí presentada. Toda acción que tome el lector basada en la información proporcionada en esta documentación es bajo su propio riesgo.
+
+Esta documentación describe el funcionamiento y uso de software, tecnologías y metodologías, y se proporciona con el propósito de compartir conocimientos y experiencias. Sin embargo, no se garantiza que dicha información sea actual, precisa o adecuada para su situación particular.
+
+Se recomienda encarecidamente que, antes de implementar cualquier solución o utilizar cualquier software mencionado en esta documentación en un entorno de producción, realice una evaluación completa, incluyendo pruebas exhaustivas y revisión de la documentación oficial de los productos relacionados.
+
+El autor no se hace responsable de ningún daño directo, indirecto, incidental, especial o consecuente que surja del uso de esta documentación o del software mencionado en ella, incluso si se ha informado de la posibilidad de tales daños.
+
+En ningún caso, el autor o los contribuyentes serán responsables por ningún reclamo, daño u otra responsabilidad, ya sea en una acción contractual, extracontractual o de otro tipo, que surja de, o en relación con, el uso de esta documentación.
+
+El uso de esta documentación y cualquier software mencionado en ella está sujeto a su propio juicio y discreción. Se recomienda encarecidamente consultar fuentes adicionales y buscar asesoramiento profesional antes de tomar decisiones basadas en la información contenida en esta documentación.
+
+En resumen, el lector asume la responsabilidad total de cualquier acción que tome basada en la información proporcionada en esta documentación, y libera al autor y a los contribuyentes de cualquier responsabilidad relacionada.
+
+Este descargo de responsabilidad puede estar sujeto a cambios y actualizaciones sin previo aviso. Última actualización: [Fecha de actualización].
+
+5had3
+[Especialista en TI y Arquitecto de Software]
+
+
+# Acerca de arc42
 
 arc42, La plantilla de documentación para arquitectura de sistemas y de
 software.
